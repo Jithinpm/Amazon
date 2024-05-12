@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-09T13:10:41 IST" name="Default suite" finished-at="2024-05-09T13:11:33 IST" duration-ms="52129">
+    <groups>
+    </groups>
+    <test started-at="2024-05-09T13:10:41 IST" name="Default test" finished-at="2024-05-09T13:11:33 IST" duration-ms="52129">
+      <class name="TestPakage.AmazonTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPakage.AmazonTest@313ac989]" started-at="2024-05-09T13:10:41 IST" name="setup" finished-at="2024-05-09T13:10:52 IST" duration-ms="11607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="URL()[pri:0, instance:TestPakage.AmazonTest@313ac989]" started-at="2024-05-09T13:10:52 IST" name="URL" finished-at="2024-05-09T13:10:58 IST" duration-ms="5566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method signature="Search()[pri:0, instance:TestPakage.AmazonTest@313ac989]" started-at="2024-05-09T13:10:58 IST" name="Search" finished-at="2024-05-09T13:11:33 IST" duration-ms="34910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+      </class> <!-- TestPakage.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
